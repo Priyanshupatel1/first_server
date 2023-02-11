@@ -1,0 +1,24 @@
+{
+  "name": "first_server-main",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshupatel1/first_server.git"
+  },
+  "author": "Priyanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyanshupatel1/first_server/issues"
+  },
+  "homepage": "https://github.com/Priyanshupatel1/first_server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
